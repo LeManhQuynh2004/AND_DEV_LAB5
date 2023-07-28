@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AND_DEV_LAB5</string>
+    <string name="open">AND_LAB5</string>
+    <string name="close">AND_LAB5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

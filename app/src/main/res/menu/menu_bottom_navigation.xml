@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_trangchu"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Trang chủ" />
+    <item
+        android:icon="@drawable/baseline_map_24"
+        android:id="@+id/menu_bando"
+        android:title="Bản đồ" />
+    <item
+        android:id="@+id/menu_dautrang"
+        android:icon="@drawable/baseline_bookmark_24"
+        android:title="Dấu Trang" />
+</menu>

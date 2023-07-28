@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_trangchu"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Trang chủ" />
+    <item
+        android:id="@+id/menu_dautrang"
+        android:icon="@drawable/baseline_bookmark_24"
+        android:title="Dấu Trang" />
+    <group android:checkableBehavior="single">
+        <item android:title="Khác">
+            <menu>
+                <item
+                    android:id="@+id/menu_caidat"
+                    android:icon="@drawable/baseline_settings_24"
+                    android:title="Cài đặt" />
+                <item
+                    android:id="@+id/menu_dangxuat"
+                    android:icon="@drawable/baseline_login_24"
+                    android:title="Đăng Xuất" />
+            </menu>
+        </item>
+    </group>
+</menu>
